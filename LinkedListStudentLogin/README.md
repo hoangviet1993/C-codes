@@ -18,7 +18,7 @@ Quit: clear all linked lists and free up memories
 
 Include memory management and clearing memories used
 
-Codes are in .c format and makefile is included
+Codes are in .c format and makefile is included. Zip files includes all necessary files and documentation.
 
 make command includes: make all, make clean(remove .o files), make debug
 
