@@ -1,4 +1,4 @@
-Solution to problem 11034 to Coding competition at uva.onlinejude.org
+Solution to problem 11034 to Coding competition at uva.onlinejude.org using linked-list based queue data structure
 
 Detail instructions can be found within pdf files
 
