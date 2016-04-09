@@ -1,6 +1,6 @@
 Solution to problem 11034 to Coding competition at uva.onlinejude.org using linked-list based queue data structure
 
-Detail instructions can be found within pdf files
+Detailed instructions can be found within pdf files
 
 Files includes a single .c file for simple execution(use main_onlinejudge.c and execute with gcc command )
 
