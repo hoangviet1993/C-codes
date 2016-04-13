@@ -3,7 +3,6 @@
 # Script to generate random data
 #
 # Course: 91.102 Computing II
-# Author: Krishnan Seetharaman
 #-----------------------------------------------------------------------------
 
 
