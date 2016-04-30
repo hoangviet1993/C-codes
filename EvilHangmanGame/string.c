@@ -307,11 +307,6 @@ Status get_word_key_value(String_Ptr current_word_family, String_Ptr new_key, St
         return FAILURE;
     }
     if (string_get_size(word) != string_get_size(current_word_family)) {
-        printf("word:");
-        string_insertion(word, stdout);
-        printf("\n current_word_family");
-        string_insertion(current_word_family, stdout);
-        printf("\n");
         printf("word family has to be the same length as the dictionary word\n");
         return FAILURE;
     }
